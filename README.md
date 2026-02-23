@@ -17,4 +17,4 @@ Nexus Hub is a lightweight and optimized Blade Ball utility hub designed for smo
 
 ## Loadstring
 ```lua
-loadstring(game:HttpGet("PASTE_YOUR_RAW_LINK_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenicScripts/Nexus-Hub/main/main.lua"))()
